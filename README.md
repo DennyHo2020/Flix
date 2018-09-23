@@ -9,7 +9,7 @@ Time spent: 10 hours spent in total
 The following **required** functionality is completed:
 
 - [X] User can tap a cell to see a detail view (+5pts)
-- [ ] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
+- [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 
 The following **stretch** features are implemented:
 
@@ -33,7 +33,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![flix_2](https://user-images.githubusercontent.com/31720526/45924494-1fb3c300-beb6-11e8-88df-d7ab0150ef62.gif)
 
 ![flix](https://user-images.githubusercontent.com/31720526/45592633-bec14380-b927-11e8-8ee7-300cc5460d78.gif)
 
