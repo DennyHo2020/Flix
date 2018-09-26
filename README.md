@@ -2,17 +2,27 @@
 
 Flix is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 10 hours spent in total
+Time spent: 12 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
+- [X] User sees app icon in home screen and styled launch screen (+1pt)
+- [X] User can scroll through a list of movies currently playing in theaters from The Movie DB API (+5pt)
+- [X] User can "Pull to refresh" the movie list (+2pt)
+- [X] User sees a loading state while waiting for the movies to load (+2pt)
 - [X] User can tap a cell to see a detail view (+5pts)
 - [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 
 The following **stretch** features are implemented:
 
+- [ ] User sees an alert when there's a networking error (+1pt)
+- [ ] User can search for a movie (+3pt)
+- [ ] While poster is being fetched, user see's a placeholder image (+1pt)
+- [ ] User sees image transition for images coming from network, not when it is loaded from cache (+1pt)
+- [ ] Customize the selection effect of the cell (+1pt)
+- [ ] For the large poster, load the low resolution image first and then switch to the high resolution image when complete 
 - [ ] User can tap a poster in the collection view to see a detail screen of that movie (+3pts)
 - [ ] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer (+3pts)
 - [ ] Customize the navigation bar (+1pt)
